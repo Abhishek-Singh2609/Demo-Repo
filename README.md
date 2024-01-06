@@ -1,2 +1,2 @@
 # Demo-Repo
-This is demo repository to learn the functionung
+This is demo repository to learn the functionung.
